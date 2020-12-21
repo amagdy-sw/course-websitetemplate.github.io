@@ -9,3 +9,7 @@ body {
 .imgHome{
     width: 100%;
 }
+
+.nav-link {
+    padding: 0.5rem 0.5rem;
+}
